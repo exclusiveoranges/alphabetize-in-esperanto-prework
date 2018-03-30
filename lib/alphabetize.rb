@@ -1,1 +1,3 @@
-funk your cat
+def funk
+  'yo cat'
+end 
